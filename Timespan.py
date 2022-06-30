@@ -9,7 +9,7 @@ start_date = f"{priorYear}-01-01"
 end_date = f"{priorYear}-12-31"
 
 
-# Setting Timespan for Annual Job Run
+# Setting Timespan for Quarterly Job Run
 
 from datetime import datetime
 
