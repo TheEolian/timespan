@@ -1,8 +1,8 @@
 # timespan
 
 Code blocks for setting:
-  -start_date
-  -end_date 
+  - start_date
+  - end_date 
   
 variables based on when the code gets run.
 
