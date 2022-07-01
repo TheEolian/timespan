@@ -1,6 +1,10 @@
 # timespan
 
-code for setting start_date and end_date variables based on when the code is run.
+Code blocks for setting:
+  -start_date
+  -end_date 
+  
+variables based on when the code gets run.
 
 # Annual Run
 - Sets start date and end date for the prior calendar year.
