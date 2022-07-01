@@ -54,7 +54,7 @@ priorYear = currentYear - 1
 if currentMonth < 7:
     start_date = f"{priorYear}-07-01"
     end_date = f"{priorYear}-12-31"
-elif currentMonth > 7:
+elif currentMonth >= 7:
     start_date = f"{currentYear}-01-01"
     end_date = f"{currentYear}-06-30"
 else:
